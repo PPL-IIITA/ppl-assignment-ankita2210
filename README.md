@@ -9,7 +9,7 @@ Operating System : Windows 10 <p>
 OS Type : 64 bit<p>
 <h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.1<p>
 
-<h4><u>Command for command prompt in Windows</u> :</h4>
+<h4><u>Commands for command prompt in Windows</u> :</h4>
 <hr>
 for q1 and q2 :\LIT2015012\build\classes>java ppl.LIT2015012<br/>
 for q10 : \PPL_q10\build\classes>java ppl.PPL<br/>
@@ -18,6 +18,8 @@ for q8 :  \PPL_q8\build\classes>java ppl.PPL<br/>
 for q7 :  \PPL_q7\build\classes>java ppl.PPL<br/>
 for q6 :  \PPL_q6\build\classes>java ppl.PPL<br/>
 for q5 :  \PPL_q5\build\classes>java ppl.PPL<br/>
+for q4 :  \PPL_question4\build\classes>java ppl.PPL<br/>
+for q3 :  \PPL_question3\build\classes>java PPL<br/>
 <p>
 
 
