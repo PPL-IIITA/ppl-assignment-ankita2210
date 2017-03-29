@@ -11,8 +11,9 @@ OS Type : 64 bit<p>
 
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>
-\LIT2015012\build\classes>java ppl.LIT2015012<br/>
-\PPL_q10\build\classes>java ppl.PPL
+for q1 and q2 :\LIT2015012\build\classes>java ppl.LIT2015012<br/>
+for q10 : \PPL_q10\build\classes>java ppl.PPL<br/>
+for q9 :  \PPL_q9\build\classes>java ppl.PPL<br/>
 <p>
 
 
