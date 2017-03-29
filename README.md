@@ -14,6 +14,10 @@ OS Type : 64 bit<p>
 for q1 and q2 :\LIT2015012\build\classes>java ppl.LIT2015012<br/>
 for q10 : \PPL_q10\build\classes>java ppl.PPL<br/>
 for q9 :  \PPL_q9\build\classes>java ppl.PPL<br/>
+for q8 :  \PPL_q8\build\classes>java ppl.PPL<br/>
+for q7 :  \PPL_q7\build\classes>java ppl.PPL<br/>
+for q6 :  \PPL_q6\build\classes>java ppl.PPL<br/>
+for q5 :  \PPL_q5\build\classes>java ppl.PPL<br/>
 <p>
 
 
