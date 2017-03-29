@@ -12,14 +12,15 @@ OS Type : 64 bit<p>
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>
 \LIT2015012\build\classes>java ppl.LIT2015012
+\PPL_q10\build\classes>java ppl.PPL
 <p>
 
 
 
 <h4><u>Class Diagram</u> :</h4>
 <hr>
-The class diagram has been made and is in the folder LIT2015012.
+The class diagram has been made and is in the respective folders of questions.
 
 <h4><u>Documentation</u> :</h4>
 <hr>
-Documentation of each class is done separately and can be found in the documentation folder inside the folder LIT2015012.
+Documentation of each class is done separately and can be found in the documentation folder inside the respective folder of the questions.
