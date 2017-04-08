@@ -13,14 +13,14 @@ OS Type : 64 bit<p>
 <h4><u>Commands for command prompt in Windows</u> :</h4>
 <hr>
 for q1 and q2 :\LIT2015012\build\classes>java ppl.LIT2015012<br/>
-for q10 : \PPL_q10\build\classes>java ppl.PPL<br/>
-for q9 :  \PPL_q9\build\classes>java ppl.PPL<br/>
-for q8 :  \PPL_q8\build\classes>java ppl.PPL<br/>
-for q7 :  \PPL_q7\build\classes>java ppl.PPL<br/>
-for q6 :  \PPL_q6\build\classes>java ppl.PPL<br/>
-for q5 :  \PPL_q5\build\classes>java ppl.PPL<br/>
-for q4 :  \PPL_question4\build\classes>java ppl.PPL<br/>
-for q3 :  \PPL_question3\build\classes>java PPL<br/>
+for q10 : \PPL_q10\classes>java ppl.PPL<br/>
+for q9 :  \PPL_q9\classes>java ppl.PPL<br/>
+for q8 :  \PPL_q8\classes>java ppl.PPL<br/>
+for q7 :  \PPL_q7\classes>java ppl.PPL<br/>
+for q6 :  \PPL_q6\classes>java ppl.PPL<br/>
+for q5 :  \PPL_q5\classes>java ppl.PPL<br/>
+for q4 :  \PPL_question4\classes>java ppl.PPL<br/>
+for q3 :  \PPL_question3\classes>java PPL<br/>
 <p>
 
 
@@ -31,4 +31,4 @@ The class diagram has been made and is in the respective folders of questions.
 
 <h4><u>Documentation</u> :</h4>
 <hr>
-Documentation of each class is done separately and can be found in the documentation folder inside the respective folder of the questions.
+Documentation of each class is done separately(using JAVADOC) and can be found in the documentation folder inside the respective folder of the questions.
