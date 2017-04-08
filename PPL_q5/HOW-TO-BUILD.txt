@@ -10,4 +10,4 @@ Create a folder "classes" if not already present and copy the text files and csv
 A copy of these text files should also be present in the directory "PPL_q5". 
 
 The build.xml file is given in the folder.
- Just type "ant" in the command prompt.The .class files of all the java files will be built in the folder "classes".
+ Just type "ant" in the command prompt.The .class files of all the java files will be built in the folder  "classes".
