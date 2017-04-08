@@ -1,0 +1,13 @@
+Software used: apache-ant-1.10.1
+OS used: Windows7
+
+The project can be built using ANT on Windows 7.
+
+In the command prompt, change the current directory to:
+ppl-assignment-ankita2210/PPL_question4
+
+Create a folder "classes" if not already present and copy the text files and csv files to the folder.
+A copy of these text files should also be present in the directory "PPL_question4". 
+
+The build.xml file is given in the folder.
+ Just type "ant" in the command prompt.The .class files of all the java files will be built in the folder "classes".
