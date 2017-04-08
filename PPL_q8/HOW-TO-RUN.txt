@@ -5,4 +5,4 @@ Now on the command prompt, type:
 
 java ppl.PPL
 
-So, the command is "cd PPL_q8/classes java ppl.PPL"
+So, the command is "cd PPL_q8/classes>java ppl.PPL"
