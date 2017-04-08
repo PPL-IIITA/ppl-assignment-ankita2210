@@ -1,7 +1,7 @@
 Set the current working directory path to the path where the project is present.
 Change the path to PPL_q7/classes
 
-Now on the command prompt, type:
+Now on the command prompt,type:
 
 java ppl.PPL
 
