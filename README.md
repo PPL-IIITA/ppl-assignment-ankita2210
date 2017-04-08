@@ -7,7 +7,8 @@ ppl-assignment-ankita2210 created by GitHub Classroom
 <hr>
 Operating System : Windows 10 <p>
 OS Type : 64 bit<p>
-<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.1<p>
+<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.1<p>The projects have also been tested by building them using "apache-ant-1.10.1". The instructions to build the file have been given separately in each folder.
+
 
 <h4><u>Commands for command prompt in Windows</u> :</h4>
 <hr>
