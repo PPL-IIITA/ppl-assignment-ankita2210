@@ -282,7 +282,7 @@ public class testing {
     }
     /** This function is responsible for initialising various gift objects and printing thr gifting details
      * @param c Array of objects of couple class  
-    
+     * @throws  IOException in case of an error in i/p o/p operations
     */
     public void fnc2(couple[] c)throws IOException{
         
