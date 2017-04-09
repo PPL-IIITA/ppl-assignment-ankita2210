@@ -141,6 +141,7 @@ public class testing {
       fnc1 makes 12 couples fnc2 prints the gifting details according to value of variable z .If z equals 0 gifting done as in q2 otherwise as stated in q8
     * 
     * @throws IOException in case of an error in i/p o/p operations
+    * @return An array of objects of couple type storing the formed couples
     */
     public  couple[] fnc1()throws IOException
     {   
@@ -329,7 +330,7 @@ public class testing {
     }
     /**
      * @param c Array of objects of couple class  
-    
+     * @throws IOException in case of an error in i/p o/p operations
     */
     public void fnc2(couple[] c)throws IOException{
         
