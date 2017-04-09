@@ -8,7 +8,8 @@ ppl-assignment-ankita2210 created by GitHub Classroom
 Operating System : Windows 7 <p>
 OS Type : 32 bit<p>
 <h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.1<p>The projects have also been tested by building them using "apache-ant-1.10.1". The instructions to build the file have been given separately in each folder.<p>
-The commands to build and run the files have been provided in the text files "HOW-TO-BUILD.txt" and "HOW-TO-RUN.txt respectively for each question seperately.
+The commands to build and run the files have been provided in the text files "HOW-TO-BUILD.txt" and "HOW-TO-RUN.txt" respectively for each question seperately.<p>
+The commands for generating javadoc has been provided in the text file "HOW-TO-GENERATE-DOCUMENTATION.txt" for each question separately.
 
 <h4><u>Commands for command prompt in Windows</u> :</h4>
 <hr>
