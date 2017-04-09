@@ -391,7 +391,7 @@ public class testing {
     }
     /**
      * @param c Array of objects of couple class  
-     * @throws java.io.IOException  
+     * @throws IOException in case of an error in i/p o/p operations 
     
     */
     public void fnc2(couple[] c)throws IOException{
