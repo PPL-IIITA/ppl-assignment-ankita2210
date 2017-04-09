@@ -1,0 +1,6 @@
+To generate javadoc change the current directory to the 
+current question and type "ant javadocs"
+
+So the command is "ant javadocs"
+
+The javadocs will be generated in a folder named "docs".
