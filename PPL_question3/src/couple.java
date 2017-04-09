@@ -24,6 +24,10 @@ public class couple {
      * @param b array of objects of class boy
      * @param g array of objects of class boy
      * @throws IOException handles error in IO
+     * @param n an integer array
+     * @param type_g array denoting type of girls
+     * @param type_b array denoting type of boys
+     * @param f an integer 
      */
     public void gifting(boy[] b,girl[] g,int[] n,int f,char[] type_g,char[] type_b)throws IOException
     {
@@ -152,12 +156,13 @@ public class couple {
     }
     /**
      * This method calculates the k most happy couples 
-     * @param h array  storing happiness of each couple 
-     * in a sorted order
-     *
-     * @param n
-     * @param g  girl array
-     * @param b  boy array
+     * @param h array  storing happiness of each couple in a sorted order
+     
+     *  @param i integer denoting index of girl
+     * @param n an integer array 
+     * @param g girl array storing the details of girls
+     
+     * @param b  boy array storing the details of boys
      */
     public void happy(int[] h,int[] n,int i,girl[] g,boy[] b)
     {
@@ -174,10 +179,11 @@ public class couple {
     }
     /**
      * This method computes the k most compatible couples
-     * @param co array that stores the compatibility of 
-     * couples in sorted order
-     * 
-     * 
+     * @param co array that stores the compatibility of  couples in sorted order
+     * @param i integer denoting index of girl
+     * @param n an integer array
+     * @param g girl array storing the details of girls
+     * @param b boy array storing the details of boys
      */
     public void compatible(int[] co,int i,int[] n,girl[] g,boy[] b)
     {
