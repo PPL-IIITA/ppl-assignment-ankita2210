@@ -35,7 +35,7 @@ public class couple {
         essential_gift[] e=new essential_gift[100];
         luxury_gift[] l=new luxury_gift[100];
         utility_gift[] u=new utility_gift[100];
-        for(int i=0;i<100;i++)
+        for(int i=0;i<100;i++ )
           {
               l[i]=new luxury_gift();
               u[i]=new utility_gift();
