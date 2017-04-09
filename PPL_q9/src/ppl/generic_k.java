@@ -16,7 +16,7 @@ public class generic_k {
      * This method sorts the given type(boy,girl,gift) in decreasing type 
      * @param <T>  data type
      * @param type array of objects of the given data type
-     * 
+     * @param arr an integer array
      *
      */
     public static <T> void k_best(T[] type,int[] arr){
